@@ -1,0 +1,1 @@
+ Я Yaroslav ввёл pull_request_template.md и я создаю новый файл во 2 или 3 раз.
